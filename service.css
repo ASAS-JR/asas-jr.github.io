@@ -1,0 +1,40 @@
+/* ENTETE ET PIED DE PAGE */
+*{ margin: 0; }
+a{ text-decoration: none; color: #000; }
+.conteneur{ margin: 0 auto; max-: 1170px; }
+/**************************************************** HAUT *************************************************/
+header h1 {text-shadow: 5px 6px 5px rgb(250, 235, 235);color: rgb(180, 139, 255);text-align: center; font-size: 60px;}
+header h1{letter-spacing: 20px;}
+header p {color: rgb(28, 226, 226);text-align: center; padding: 0px;}
+
+header p {text-align: center; font-size: 18px; margin: 0px;padding: 0;}
+header { background: #000000; padding: 5px; text-align:right; }
+header span{ color: #fff; font-weight: bold; text-transform: uppercase; margin-right: 5%; word-spacing: 5cm; }
+
+/**************************************************** NAVIGATION *********************************************/
+nav { background-color: rgb(255, 181, 224);}
+nav a{ color: #0f28b3; text-decoration: none; padding: 7px;  font-size: 19px;}
+nav a{display: inline-block; padding: 5px;}
+ nav a:hover{ background: #04baf6; }
+/**************************************************** MILIEU ************************************************/
+section{ background-color: antiquewhite; padding: 30px; }
+
+section h2{ color: rgb(236, 147, 45); font-size: 30px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
+    text-shadow:30px rgb(0, 130, 139); }
+   
+    section h3{ color: rgb(5, 49, 194); font-size: 24px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: none;
+        text-shadow:30px rgb(0, 130, 139); }
+        section h4{ color: rgb(17, 16, 17); font-size: 20px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase;
+            text-shadow:30px rgb(0, 130, 139);}
+            section h4{text-transform:none}
+            section ul{ font-size: 19px; text-align: justify; line-height: 30px;}
+   
+    section p{font-size: 19px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; word-spacing: 5px; line-height: 30px;text-align: justify; }
+main p2{ color:rgb(238, 6, 6);font-size: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+main { background-color: #f6a8fd; border-radius: 8px;}
+main {margin: 5px; padding: 15px; }
+          /**************************************************** BAS ************************************************/
+footer{ background: #000; color: white; text-align: center; padding: 15px 0; }
+/**************************************************** GENERAL ************************************************/
+.erreur{ background: #ff0000; padding: 5px; margin: 5px; }
+.validation{ background: #669933; padding: 5px; margin: 5px; }

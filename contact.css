@@ -1,0 +1,30 @@
+/* ENTETE ET PIED DE PAGE */
+*{ margin: 0; }
+a{ text-decoration: none; color: #000; }
+.conteneur{ margin: 0 auto; max-: 1170px; }
+/**************************************************** HAUT *************************************************/
+header h1 {text-shadow: 5px 6px 5px rgb(250, 235, 235);color: rgb(180, 139, 255);text-align: center; font-size: 60px;}
+header h1{letter-spacing: 20px;}
+header p {color: rgb(28, 226, 226);text-align: center; padding: 0px;}
+
+header p {text-align: center; font-size: 18px; margin: 0px;padding: 0;}
+header { background: #000000; padding: 5px; text-align:right; }
+header span{ color: #fff; font-weight: bold; text-transform: uppercase; margin-right: 5%; word-spacing: 5cm; }
+
+/**************************************************** NAVIGATION *********************************************/
+nav { background-color: rgb(255, 181, 224);}
+nav a{ color: #0f28b3; text-decoration: none; padding: 7px;  font-size: 19px;}
+nav a{display: inline-block; padding: 5px;}
+ nav a:hover{ background: #04baf6; }
+/**************************************************** MILIEU ************************************************/
+section{ background-color: antiquewhite; padding: 30px; min-height: 800px; }
+section p{padding: 40px ; margin: 0px; border-radius: 50% dark ;}
+/**************************************************** BAS ************************************************/
+footer{ background: #000; color: white; text-align: center; padding: 15px 0;}
+/**************************************************** GENERAL ************************************************/
+.erreur{ background: #ff0000; padding: 5px; margin: 5px; }
+.validation{ background: #669933; padding: 5px; margin: 5px; }
+
+/* CORPS PAGE */
+p2{margin: 30px; padding: 5px;}
+div1{;background-color: rgb(255, 72, 0);border-color: #000000; text}
